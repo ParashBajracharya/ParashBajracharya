@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering 
 - 🌱 I’m currently learning Data Analytics 
 - 💞️ I’m looking to collaborate on Data Projects 
-- 📫 How to reach me MAIL me @ bajracharyaparash13@gmail.com 
+- 📫 How to reach me MAIL me @ parashrajbajracharya@gmail.com 
 
 <!---
 ParashBajracharya/ParashBajracharya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
